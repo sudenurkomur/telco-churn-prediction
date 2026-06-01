@@ -1,0 +1,48 @@
+{
+  "best_model": "logistic_regression",
+  "test_metrics_all_models": [
+    {
+      "model": "logistic_regression",
+      "accuracy": 0.7416607523066004,
+      "balanced_accuracy": 0.7626805135756543,
+      "precision": 0.5084175084175084,
+      "recall": 0.8074866310160428,
+      "f1": 0.6239669421487604,
+      "roc_auc": 0.8319641427058306,
+      "pr_auc": 0.618834866360638
+    },
+    {
+      "model": "random_forest",
+      "accuracy": 0.7636621717530163,
+      "balanced_accuracy": 0.7511883541295306,
+      "precision": 0.5409181636726547,
+      "recall": 0.7245989304812834,
+      "f1": 0.6194285714285714,
+      "roc_auc": 0.8267999689994574,
+      "pr_auc": 0.6188502140798056
+    },
+    {
+      "model": "hist_gradient_boosting",
+      "accuracy": 0.7934705464868701,
+      "balanced_accuracy": 0.6997584541062802,
+      "precision": 0.6426116838487973,
+      "recall": 0.5,
+      "f1": 0.562406015037594,
+      "roc_auc": 0.8349841122219637,
+      "pr_auc": 0.636676703692739
+    }
+  ],
+  "final_test_metrics": {
+    "accuracy": 0.7430801987224982,
+    "balanced_accuracy": 0.7645005037588157,
+    "precision": 0.51010101010101,
+    "recall": 0.8101604278074866,
+    "f1": 0.6260330578512396,
+    "roc_auc": 0.8313647988839805,
+    "pr_auc": 0.6167131032997805
+  },
+  "outputs": {
+    "figures": "/Users/sudenurkomur/Desktop/ML_Homework/outputs/figures",
+    "results": "/Users/sudenurkomur/Desktop/ML_Homework/outputs/results"
+  }
+}

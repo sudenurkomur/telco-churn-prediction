@@ -1,0 +1,8 @@
+{
+  "train_size": 4225,
+  "val_size": 1409,
+  "test_size": 1409,
+  "train_churn_rate": 0.26532544378698225,
+  "val_churn_rate": 0.2654364797728886,
+  "test_churn_rate": 0.2654364797728886
+}

@@ -1,0 +1,49 @@
+feature,importance
+num__tenure,0.12172312911581812
+cat__Contract_Month-to-month,0.10035978275932385
+num__TotalCharges,0.09615578963597068
+num__MonthlyCharges,0.06511088087216141
+num__avg_monthly_spend,0.06133811278941364
+cat__TechSupport_No,0.05527684131802925
+cat__Contract_Two year,0.04587719795157477
+cat__OnlineSecurity_No,0.04232728206464526
+cat__InternetService_Fiber optic,0.03782251004699114
+cat__PaymentMethod_Electronic check,0.027165298085099286
+num__num_optional_services,0.02066694210685896
+cat__Contract_One year,0.01959197912879856
+cat__OnlineBackup_No,0.01810627850992421
+cat__InternetService_DSL,0.016768041444585748
+num__has_auto_payment,0.016136694232251184
+cat__OnlineSecurity_Yes,0.015384315851950872
+cat__PaperlessBilling_Yes,0.01187374682294298
+cat__PaperlessBilling_No,0.011771922254840082
+cat__StreamingTV_No internet service,0.011686963445698468
+cat__TechSupport_Yes,0.011581346931097693
+cat__DeviceProtection_No internet service,0.010422615132219863
+cat__gender_Female,0.010328199692990196
+cat__TechSupport_No internet service,0.010234052405166429
+cat__DeviceProtection_No,0.009964042475385326
+cat__gender_Male,0.009578028512646332
+cat__OnlineSecurity_No internet service,0.009014575262325977
+cat__InternetService_No,0.008713873874768425
+cat__Partner_No,0.008618180986523014
+cat__OnlineBackup_Yes,0.007990659624343777
+cat__MultipleLines_Yes,0.007636588059420118
+cat__MultipleLines_No,0.007608087178453539
+cat__Dependents_No,0.007457449473026556
+cat__Partner_Yes,0.007211878735218214
+cat__Dependents_Yes,0.006849663892994764
+cat__StreamingMovies_No,0.006521468993144588
+cat__PaymentMethod_Bank transfer (automatic),0.006455549665028965
+cat__OnlineBackup_No internet service,0.0062786582491859266
+cat__StreamingMovies_Yes,0.006222352175497662
+cat__PaymentMethod_Credit card (automatic),0.0062183431935340545
+num__SeniorCitizen,0.006135699762589185
+cat__StreamingTV_No,0.005995678793541386
+cat__DeviceProtection_Yes,0.005984489117229802
+cat__StreamingTV_Yes,0.0056421784242231795
+cat__PaymentMethod_Mailed check,0.005131424867087508
+cat__StreamingMovies_No internet service,0.004954659641774454
+cat__PhoneService_No,0.002252004585957089
+cat__PhoneService_Yes,0.0019932742414443256
+cat__MultipleLines_No phone service,0.0018612676163031667

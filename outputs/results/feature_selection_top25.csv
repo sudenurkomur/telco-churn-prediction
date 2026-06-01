@@ -1,0 +1,26 @@
+feature,mutual_info
+cat__Contract_Month-to-month,0.0948026581107464
+num__tenure,0.07413851220826206
+cat__TechSupport_No,0.0605892071326819
+cat__OnlineSecurity_No,0.05649312359951697
+num__MonthlyCharges,0.05089505176283282
+cat__Contract_Two year,0.050056343254973656
+cat__InternetService_Fiber optic,0.0453602581967838
+num__TotalCharges,0.041158062837361564
+cat__StreamingTV_No internet service,0.04074129849062924
+cat__PaymentMethod_Electronic check,0.038952115351527095
+num__num_optional_services,0.03834358513294833
+num__avg_monthly_spend,0.03756337997012804
+cat__DeviceProtection_No internet service,0.03418324330826339
+cat__InternetService_No,0.03401029588383109
+cat__OnlineBackup_No,0.03304933381631647
+cat__OnlineBackup_No internet service,0.03138294153988852
+cat__OnlineSecurity_No internet service,0.030568006449108287
+cat__StreamingMovies_No internet service,0.030258086520003502
+cat__TechSupport_No internet service,0.02995375303442316
+cat__DeviceProtection_No,0.028653488148269624
+cat__OnlineSecurity_Yes,0.020030248652052496
+num__has_auto_payment,0.01976071288885972
+cat__PaperlessBilling_Yes,0.018499880971838634
+cat__PaymentMethod_Credit card (automatic),0.011855827418758569
+cat__TechSupport_Yes,0.007971085235119357
