@@ -1,0 +1,49 @@
+feature,mean_abs_shap
+cat__Contract_Month-to-month,0.06052306266321843
+num__tenure,0.05737740006780423
+num__TotalCharges,0.03586393305226036
+cat__TechSupport_No,0.032826407697417216
+cat__InternetService_Fiber optic,0.03274212018860086
+cat__Contract_Two year,0.02960076410023258
+cat__OnlineSecurity_No,0.027468216304281777
+cat__PaymentMethod_Electronic check,0.019700160575263845
+num__MonthlyCharges,0.01921819663891568
+num__avg_monthly_spend,0.016068177037685406
+cat__InternetService_DSL,0.015474466262562603
+cat__OnlineBackup_No,0.011794474457242037
+num__has_auto_payment,0.011564281665142041
+cat__OnlineSecurity_Yes,0.010268332952946562
+cat__Contract_One year,0.009833018233675826
+cat__PaperlessBilling_Yes,0.009063988688791576
+cat__PaperlessBilling_No,0.009003812448056932
+cat__StreamingTV_No internet service,0.008099229175276397
+cat__TechSupport_Yes,0.007784945137936692
+cat__DeviceProtection_No internet service,0.007711749218470463
+cat__TechSupport_No internet service,0.006831938939252595
+cat__InternetService_No,0.006530678638393548
+cat__OnlineSecurity_No internet service,0.00649451289270491
+cat__Dependents_Yes,0.005029655374445605
+num__num_optional_services,0.0049894627198107154
+cat__Dependents_No,0.0048682780438101605
+cat__OnlineBackup_No internet service,0.0043812307786577085
+cat__OnlineBackup_Yes,0.0042928982528954085
+cat__StreamingMovies_No internet service,0.004249696987478045
+cat__Partner_No,0.0041279040620503995
+cat__StreamingMovies_Yes,0.003975473697845466
+cat__DeviceProtection_No,0.00391175760552507
+cat__MultipleLines_No,0.003490666302119681
+cat__StreamingTV_Yes,0.0034689323576134017
+num__SeniorCitizen,0.0034388188921913154
+cat__StreamingMovies_No,0.0032954579443726707
+cat__Partner_Yes,0.003041274904137983
+cat__MultipleLines_Yes,0.0030168963426046363
+cat__gender_Female,0.0027542091305463394
+cat__gender_Male,0.0026366616329389215
+cat__PaymentMethod_Credit card (automatic),0.0024824651981654984
+cat__StreamingTV_No,0.0024790720487996363
+cat__PaymentMethod_Bank transfer (automatic),0.0024413451596344026
+cat__PaymentMethod_Mailed check,0.001804038823103862
+cat__DeviceProtection_Yes,0.0014058768628780886
+cat__PhoneService_Yes,0.0008568226777156078
+cat__PhoneService_No,0.0007998582552123719
+cat__MultipleLines_No phone service,0.0005076439096349704

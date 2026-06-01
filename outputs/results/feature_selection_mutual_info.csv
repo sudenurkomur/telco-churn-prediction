@@ -1,0 +1,49 @@
+feature,mutual_info
+cat__Contract_Month-to-month,0.0948026581107464
+num__tenure,0.07413851220826206
+cat__TechSupport_No,0.0605892071326819
+cat__OnlineSecurity_No,0.05649312359951697
+num__MonthlyCharges,0.05089505176283282
+cat__Contract_Two year,0.050056343254973656
+cat__InternetService_Fiber optic,0.0453602581967838
+num__TotalCharges,0.041158062837361564
+cat__StreamingTV_No internet service,0.04074129849062924
+cat__PaymentMethod_Electronic check,0.038952115351527095
+num__num_optional_services,0.03834358513294833
+num__avg_monthly_spend,0.03756337997012804
+cat__DeviceProtection_No internet service,0.03418324330826339
+cat__InternetService_No,0.03401029588383109
+cat__OnlineBackup_No,0.03304933381631647
+cat__OnlineBackup_No internet service,0.03138294153988852
+cat__OnlineSecurity_No internet service,0.030568006449108287
+cat__StreamingMovies_No internet service,0.030258086520003502
+cat__TechSupport_No internet service,0.02995375303442316
+cat__DeviceProtection_No,0.028653488148269624
+cat__PaperlessBilling_No,0.024957824304812082
+cat__OnlineSecurity_Yes,0.020030248652052496
+num__has_auto_payment,0.01976071288885972
+cat__PaperlessBilling_Yes,0.018499880971838634
+cat__Dependents_Yes,0.017920324090627604
+cat__Contract_One year,0.015659706334312018
+cat__gender_Male,0.013950083450132045
+cat__PaymentMethod_Bank transfer (automatic),0.01272001381410437
+cat__PaymentMethod_Credit card (automatic),0.011855827418758569
+cat__InternetService_DSL,0.010048649091318751
+cat__StreamingMovies_No,0.009300000059180746
+cat__StreamingTV_Yes,0.008498674304097786
+num__SeniorCitizen,0.008418543515431809
+cat__StreamingMovies_Yes,0.008084058537207284
+cat__TechSupport_Yes,0.007971085235119357
+cat__OnlineBackup_Yes,0.007318382810755031
+cat__Partner_No,0.006922213303327984
+cat__PhoneService_No,0.0067655416290879344
+cat__DeviceProtection_Yes,0.005919881982528574
+cat__Dependents_No,0.005140081592312162
+cat__MultipleLines_No phone service,0.0049280272060578945
+cat__MultipleLines_No,0.004324457586849739
+cat__MultipleLines_Yes,0.002648310956931965
+cat__StreamingTV_No,0.0008898369849585919
+cat__PaymentMethod_Mailed check,0.0008582696004517665
+cat__PhoneService_Yes,0.00020276338516334036
+cat__Partner_Yes,0.0
+cat__gender_Female,0.0

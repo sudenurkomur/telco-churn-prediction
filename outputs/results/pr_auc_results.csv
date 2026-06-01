@@ -1,0 +1,5 @@
+model,split,pr_auc
+logistic_regression,test,0.6233257102304882
+random_forest,test,0.6188502140798056
+hist_gradient_boosting,test,0.636676703692739
+random_forest_refit,test,0.6281624247751467

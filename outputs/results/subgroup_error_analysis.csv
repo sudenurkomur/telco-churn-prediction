@@ -1,0 +1,8 @@
+group_type,group,n,churn_rate,error_rate,false_churn,missed_churn
+Contract,Month-to-month,786,0.4122,0.3906,277,30
+Contract,One year,284,0.1268,0.1444,14,27
+Contract,Two year,339,0.0413,0.0413,0,14
+tenure_bin,0-12,431,0.464,0.3457,126,23
+tenure_bin,13-24,204,0.2745,0.3529,67,5
+tenure_bin,25-48,318,0.2233,0.2704,72,14
+tenure_bin,49-72,456,0.1031,0.1206,26,29

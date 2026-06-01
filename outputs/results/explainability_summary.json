@@ -1,0 +1,12 @@
+{
+  "feature_selection": "/Users/sudenurkomur/Desktop/ML_Homework/outputs/results/feature_selection_mutual_info.csv",
+  "figures": [
+    "confusion_matrices_all_models.png",
+    "confusion_matrix_best_detailed.png",
+    "feature_selection_mutual_info.png",
+    "permutation_importance_random_forest.png",
+    "permutation_importance_encoded_random_forest.png",
+    "shap_summary_random_forest.png",
+    "shap_bar_random_forest.png"
+  ]
+}
